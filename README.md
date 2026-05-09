@@ -80,6 +80,6 @@ cd frontend && npm run dev
 - ✅ SMS & Email Notifications
 
 ## 🙌 Contributing
-We love contributions! Feel free to **Fork** this repo and submit a **Pull Request**. 🚀
+We love contributions! Feel free to **Fork** this repo and submit a **Pull Request**.
 
 
